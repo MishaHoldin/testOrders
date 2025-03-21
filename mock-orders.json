@@ -1,0 +1,122 @@
+[
+  {
+    "transactionId": "15325",
+    "date": "12.06.2024",
+    "status": "Success",
+    "gameName": "Ernardd",
+    "gameId": "1523523623",
+    "amount": 153.26,
+    "currency": "USD",
+    "quantity": 40500,
+    "bonus": 1500,
+    "originalPrice": 749.99
+  },
+  {
+    "transactionId": "15326",
+    "date": "12.06.2024",
+    "status": "Success",
+    "gameName": "Ernardd",
+    "gameId": "1523523624",
+    "amount": 142.50,
+    "currency": "EUR",
+    "quantity": 38000,
+    "bonus": 1200,
+    "originalPrice": 699.99
+  },
+  {
+    "transactionId": "15327",
+    "date": "11.06.2024",
+    "status": "Success",
+    "gameName": "Ernardd",
+    "gameId": "1523523625",
+    "amount": 128.75,
+    "currency": "GBP",
+    "quantity": 35000,
+    "bonus": 1000,
+    "originalPrice": 649.99
+  },
+  {
+    "transactionId": "15328",
+    "date": "11.06.2024",
+    "status": "Failed",
+    "gameName": "Ernardd",
+    "gameId": "1523523626",
+    "amount": 165.99,
+    "currency": "USD",
+    "quantity": 42000,
+    "bonus": 1800,
+    "originalPrice": 799.99
+  },
+  {
+    "transactionId": "15329",
+    "date": "10.06.2024",
+    "status": "Success",
+    "gameName": "Ernardd",
+    "gameId": "1523523627",
+    "amount": 156.50,
+    "currency": "EUR",
+    "quantity": 41000,
+    "bonus": 1600,
+    "originalPrice": 769.99
+  },
+  {
+    "transactionId": "15330",
+    "date": "10.06.2024",
+    "status": "Success",
+    "gameName": "Ernardd",
+    "gameId": "1523523628",
+    "amount": 147.25,
+    "currency": "GBP",
+    "quantity": 39000,
+    "bonus": 1400,
+    "originalPrice": 729.99
+  },
+  {
+    "transactionId": "15331",
+    "date": "09.06.2024",
+    "status": "Success",
+    "gameName": "Ernardd",
+    "gameId": "1523523629",
+    "amount": 159.99,
+    "currency": "USD",
+    "quantity": 41500,
+    "bonus": 1700,
+    "originalPrice": 779.99
+  },
+  {
+    "transactionId": "15332",
+    "date": "09.06.2024",
+    "status": "Success",
+    "gameName": "Ernardd",
+    "gameId": "1523523630",
+    "amount": 151.75,
+    "currency": "EUR",
+    "quantity": 40000,
+    "bonus": 1500,
+    "originalPrice": 759.99
+  },
+  {
+    "transactionId": "15333",
+    "date": "08.06.2024",
+    "status": "Failed",
+    "gameName": "Ernardd",
+    "gameId": "1523523631",
+    "amount": 142.99,
+    "currency": "GBP",
+    "quantity": 38500,
+    "bonus": 1300,
+    "originalPrice": 719.99
+  },
+  {
+    "transactionId": "15334",
+    "date": "08.06.2024",
+    "status": "Success",
+    "gameName": "Ernardd",
+    "gameId": "1523523632",
+    "amount": 162.50,
+    "currency": "USD",
+    "quantity": 42500,
+    "bonus": 1900,
+    "originalPrice": 789.99
+  }
+] 

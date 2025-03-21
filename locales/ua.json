@@ -1,0 +1,50 @@
+{
+  "welcome": "Ласкаво просимо до Orders Project",
+  "orders": {
+    "title": "Список ордерів",
+    "description": "Переглянути та керувати вашими ордерами",
+    "details": "Деталі ордера",
+    "total": "Загальна сума",
+    "items": "Товари",
+    "date": "Дата",
+    "order": "Ордер",
+    "loading": "Завантаження...",
+    "error": "Помилка завантаження ордерів",
+    "amount": "Сума",
+    "quantity": "Кількість",
+    "orderInfo": "Інформація про ордер",
+    "products": "Товари",
+    "status": {
+      "title": "Статус",
+      "completed": "Виконано",
+      "pending": "В обробці",
+      "cancelled": "Скасовано"
+    },
+    "transactionId": "ID транзакції",
+    "gameName": "Назва гри",
+    "gameId": "ID гри",
+    "yourGoods": "Ваші товари",
+    "ask": "Запитати?",
+    "creating": "Створення...",
+    "createTestData": "Створити тестові дані",
+    "noOrdersFound": "Не знайдено ордерів для вибраної валюти"
+  },
+  "auth": {
+    "title": "Авторизація",
+    "description": "Увійти або зареєструватися в системі",
+    "login": "Вхід",
+    "register": "Реєстрація",
+    "email": "Email",
+    "password": "Пароль",
+    "name": "Ім'я",
+    "createAccount": "Створити новий акаунт",
+    "haveAccount": "Вже маєте акаунт? Увійти",
+    "loginButton": "Увійти",
+    "registerButton": "Зареєструватися",
+    "logout": "Вийти"
+  },
+  "common": {
+    "close": "Закрити",
+    "back": "Назад"
+  }
+} 

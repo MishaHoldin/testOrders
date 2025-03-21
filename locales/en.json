@@ -1,0 +1,50 @@
+{
+  "welcome": "Welcome to Orders Project",
+  "orders": {
+    "title": "Orders List",
+    "description": "View and manage your orders",
+    "details": "Order Details",
+    "total": "Total",
+    "items": "Items",
+    "date": "Date",
+    "order": "Order",
+    "loading": "Loading...",
+    "error": "Error loading orders",
+    "amount": "Amount",
+    "quantity": "Quantity",
+    "orderInfo": "Order Information",
+    "products": "Products",
+    "status": {
+      "title": "Status",
+      "completed": "Completed",
+      "pending": "Pending",
+      "cancelled": "Cancelled"
+    },
+    "transactionId": "Transaction ID",
+    "gameName": "Game Name",
+    "gameId": "Game ID",
+    "yourGoods": "Your Goods",
+    "ask": "Ask?",
+    "creating": "Creating...",
+    "createTestData": "Create Test Data",
+    "noOrdersFound": "No orders found for selected currency"
+  },
+  "auth": {
+    "title": "Authentication",
+    "description": "Sign in or register in the system",
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "createAccount": "Create new account",
+    "haveAccount": "Already have an account? Login",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "logout": "Logout"
+  },
+  "common": {
+    "close": "Close",
+    "back": "Back"
+  }
+} 
